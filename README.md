@@ -76,14 +76,6 @@ fraud-detection/
 
 ```
 
-## 🚀 Key Takeaways
-- Learned practical handling of **imbalanced classification problems**.  
-- Strengthened understanding of **ensemble learning** and **evaluation metrics**.  
-- Built an end-to-end project pipeline: from **EDA** to **model comparison and evaluation**.  
-
-
-
----
 
 ## 🧰 Technologies Used
 - Python  
@@ -92,6 +84,15 @@ fraud-detection/
 - Matplotlib  
 - Seaborn  
 - Scikit-learn
+
+---
+
+## 🚀 Key Takeaways
+- Learned practical handling of **imbalanced classification problems**.  
+- Strengthened understanding of **ensemble learning** and **evaluation metrics**.  
+- Built an end-to-end project pipeline: from **EDA** to **model comparison and evaluation**.  
+
+
 
 ---
 
