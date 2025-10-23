@@ -83,22 +83,14 @@ To further elevate the system’s applicability:
 fraud-detection/
 │
 ├── 📘 fraud_detection.ipynb # Jupyter Notebook containing complete analysis and model building
-├── 🧾 README.md # Project documentation (overview, methodology, results, etc.)
-├── 📄 requirements.txt # List of required Python libraries
-│
-├── 📊 dataset/ # (Optional) Folder for the dataset if uploaded or referenced
-│ └── creditcard.csv
-│
-├── 📈 visuals/ # (Optional) Folder for EDA plots, confusion matrices, ROC curves, etc.
-│ ├── correlation_heatmap.png
-│ ├── roc_auc_curve.png
-│ └── confusion_matrix.png
-│
-├── 📦 models/ # (Optional) Directory to store trained models for deployment
-│ └── fraud_detection_model.pkl
-│
-└── 🔮 future/ # (Optional) Folder for extensions like Flask/Streamlit apps
-└── app.py
+├── 🧾 README.md                  # Project documentation (overview, methodology, results, etc.)
+├── 📄 requirements.txt           # List of required Python libraries
+├── 📊 creditcard.csv             # dataset used in this project.
+├── 📝 Project report             # Report of this project
+├── 💼 MIT License
+├── sample
+└── sample
+
 ```
 
 ---
@@ -122,3 +114,7 @@ It demonstrates applied knowledge of statistical modeling, evaluation metrics, a
 ## 🧩 Author
 **Manpreet Singh**  
 B.Sc. Artificial Intelligence & Data Science  
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
