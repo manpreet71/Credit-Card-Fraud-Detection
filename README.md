@@ -63,7 +63,7 @@ Visualized performance through confusion matrix heatmaps and ROC-AUC plots for b
 
 ## 📦 Project Structure
 ```
-fraud-detection/
+Credit-Card-Fraud-Detection/
 │
 ├── 📘 fraud_detection.ipynb      # Jupyter Notebook containing complete analysis and model building
 ├── 🧾 README.md                  # Project documentation (overview, methodology, results, etc.)
