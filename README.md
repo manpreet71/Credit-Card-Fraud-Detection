@@ -60,23 +60,6 @@ Visualized performance through confusion matrix heatmaps and ROC-AUC plots for b
 
 ---
 
-## 🚀 Key Takeaways
-- Learned practical handling of **imbalanced classification problems**.  
-- Strengthened understanding of **ensemble learning** and **evaluation metrics**.  
-- Built an end-to-end project pipeline: from **EDA** to **model comparison and evaluation**.  
-
----
-
-## 🔮 Future Enhancements
-To further elevate the system’s applicability:
-1. **Data Resampling Techniques** — Implement SMOTE or ADASYN to mitigate class imbalance.  
-2. **Hyperparameter Optimization** — Apply Grid Search or Random Search to fine-tune model performance.  
-3. **Feature Importance Analysis** — Quantify the most influential variables in fraudulent detection.  
-4. **Deep Learning Approach** — Explore LSTM or Autoencoder-based models for real-time anomaly detection.  
-5. **Web Deployment** — Save the model using Pickle or Joblib and deploy via Flask or Streamlit for user interaction.  
-6. **Explainability (XAI)** — Integrate SHAP or LIME for transparent model decision-making.
-
----
 
 ## 📦 Project Structure
 ```
@@ -93,6 +76,13 @@ fraud-detection/
 
 ```
 
+## 🚀 Key Takeaways
+- Learned practical handling of **imbalanced classification problems**.  
+- Strengthened understanding of **ensemble learning** and **evaluation metrics**.  
+- Built an end-to-end project pipeline: from **EDA** to **model comparison and evaluation**.  
+
+
+
 ---
 
 ## 🧰 Technologies Used
@@ -101,19 +91,26 @@ fraud-detection/
 - Pandas  
 - Matplotlib  
 - Seaborn  
-- Scikit-learn  
+- Scikit-learn
 
 ---
 
-## 📜 Citation & Acknowledgment
-This project was developed as part of my personal learning journey in **Machine Learning and Data Science**.  
-It demonstrates applied knowledge of statistical modeling, evaluation metrics, and data-driven decision-making.
+## 🔮 Future Enhancements
+To further elevate the system’s applicability:
+1. **Data Resampling Techniques** — Implement SMOTE or ADASYN to mitigate class imbalance.  
+2. **Hyperparameter Optimization** — Apply Grid Search or Random Search to fine-tune model performance.  
+3. **Feature Importance Analysis** — Quantify the most influential variables in fraudulent detection.  
+4. **Deep Learning Approach** — Explore LSTM or Autoencoder-based models for real-time anomaly detection.  
+5. **Web Deployment** — Save the model using Pickle or Joblib and deploy via Flask or Streamlit for user interaction.  
+6. **Explainability (XAI)** — Integrate SHAP or LIME for transparent model decision-making.
 
 ---
 
 ## 🧩 Author
 **Manpreet Singh**  
-B.Sc. Artificial Intelligence & Data Science  
+B.Sc. Artificial Intelligence & Data Science
+
+---
 
 ## 📜 License
 
