@@ -65,14 +65,12 @@ Visualized performance through confusion matrix heatmaps and ROC-AUC plots for b
 ```
 fraud-detection/
 │
-├── 📘 fraud_detection.ipynb # Jupyter Notebook containing complete analysis and model building
+├── 📘 fraud_detection.ipynb      # Jupyter Notebook containing complete analysis and model building
 ├── 🧾 README.md                  # Project documentation (overview, methodology, results, etc.)
 ├── 📄 requirements.txt           # List of required Python libraries
-├── 📊 creditcard.csv             # dataset used in this project.
 ├── 📝 Project report             # Report of this project
-├── 💼 MIT License
-├── sample
-└── sample
+├── 💼 MIT License                # This project is license under MIT License 
+└── 📄 Download Dataset           # Link to download dataset used in this project
 
 ```
 
