@@ -58,6 +58,11 @@ Visualized performance through confusion matrix heatmaps and ROC-AUC plots for b
 - The ensemble models achieved the highest **ROC-AUC** and **F1** scores, indicating strong detection capabilities for fraudulent transactions.  
 - Although class imbalance slightly affected precision, recall for the fraud class was improved using ensemble techniques.
 
+  <img width="913" height="778" alt="Screenshot 2025-10-24 124322" src="https://github.com/user-attachments/assets/d845c07e-0c33-4a05-8f5b-070aa74e8360" />
+
+
+  
+
 ---
 
 
